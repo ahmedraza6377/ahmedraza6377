@@ -70,6 +70,6 @@ Gaining experience in building robust backend systems using Spring Boot</li>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam1459&show_icons=true&locale=en&layout=compact" alt="satyam1459" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedraza6377&show_icons=true&locale=en&layout=compact" alt="ahmedraza6377" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam1459&show_icons=true&locale=en" alt="satyam1459" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedraza6377&show_icons=true&locale=en" alt="ahmedraza" /></p>
