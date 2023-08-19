@@ -32,9 +32,9 @@ Gaining experience in building robust backend systems using Spring Boot</li>
 
 
 - 🔭 I’m currently working on **Java Projects using SpringBoot Framework**
-- 
-- - 🔭 I’m currently working on [Insta_Backend](https://github.com/ahmedraza6377/instaBackend/tree/65fe7e427fcea1b182179e5c9ab78cfe3eb2f375/InstaBackend)
-  - 
+  
+- 🔭 I’m currently working on [Insta_Backend](https://github.com/ahmedraza6377/instaBackend/tree/65fe7e427fcea1b182179e5c9ab78cfe3eb2f375/InstaBackend)
+
 - 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Backened projects.**
